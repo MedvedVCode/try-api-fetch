@@ -1,1 +1,1 @@
-# try-api-fetch
+# Разбор задач, связанных с api, fetch js
